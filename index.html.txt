@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-<title>Hello World! Is DobreTech Here</title>
+<title>Hello from diamond</title>
 </head>
 <body>
 <h1>Hello world!</h1>
